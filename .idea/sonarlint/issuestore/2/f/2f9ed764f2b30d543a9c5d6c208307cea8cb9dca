@@ -1,0 +1,13 @@
+
+N
+java:S1128"1Remove this unused import 'com.google.gson.Gson'.(–§8¢¼„ã¹/
+L
+java:S3740"/Provide the parametrized type for this generic.(‚Ê«8¢¼„ã¹/
+n
+java:S1192B"LDefine a constant instead of duplicating this literal "retry-count" 3 times.(êñ¹¯úÿÿÿÿ8å˜¹ä¹/
+[
+java:S4719+"9Replace charset name argument with StandardCharsets.UTF_8(–›ƒ‡ùÿÿÿÿ8Öƒñã¹/
+b	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(®Í÷â8Öƒñã¹/
+i
+java:S1128
+"LRemove this unused import 'org.springframework.amqp.core.MessageProperties'.(Í¦’‹8ğŒİã¹/
